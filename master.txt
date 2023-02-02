@@ -8,3 +8,5 @@ this is change2
 this is change3
 this is the line echoed after 'index.txt' removed
 CHANGES APHA
+this is another change.
+This is line A
