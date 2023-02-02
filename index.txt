@@ -1,8 +1,0 @@
-this is line 1
-this is line 2
-this is change 1
-this is change 2
-this is change 3
-this is change1
-this is change2
-this is change3

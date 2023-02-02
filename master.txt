@@ -6,3 +6,4 @@ this is line4
 this is change1
 this is change2
 this is change3
+this is the line echoed after 'index.txt' removed
